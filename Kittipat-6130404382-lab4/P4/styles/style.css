@@ -16,4 +16,10 @@
   color: white;
   height: 30px;
   border-radius: 4px;
+  transition: 0.5s;
+}
+
+.my-form > input[type="submit"]:hover {
+    background-color: #008800;
+    transition: 0.3s;
 }

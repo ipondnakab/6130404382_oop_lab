@@ -24,9 +24,11 @@ nav > ul > li > a {
   padding: 12px;
   color: white;
   text-decoration: none;
+  transition: 0.5s;
 }
 nav > ul > li > a:hover {
   background-color: purple;
+  transition: 0.2s;
 }
 
 .active-bt {
